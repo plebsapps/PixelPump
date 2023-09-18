@@ -9,25 +9,15 @@ während andere spezifisch für die jeweilige Plattform sind.
 ## Projektstruktur
 
 ch.plebsapps.pixelpump/
-
 │
-
 ├── common/                # Gemeinsame Klassen und Funktionen für App und Web
-
 │   ├── model/             # Geschäftslogik-Modelle
-
 │   │   ├── Ausruestung.java
-
 │   │   ├── Uebung.java
-
 │   │   ├── Trainingseinheit.java
-
 │   │   └── MuskelGruppe.java
-
 │   │
-
 │   └── util/              # Gemeinsame Hilfsklassen oder Funktionen
-
 │
 
 ├── app/                   # PixelWatch App spezifische Klassen und Ressourcen
